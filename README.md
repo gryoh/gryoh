@@ -1,6 +1,7 @@
 <div align="center">
  
- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=110&section=header&text=7th-year%20Backend&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=60)
+ 
+ ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Backend&height=150&fontSize=60&desc=Developer&descAlignY=75&descAlign=60)
  
 </div>
 
