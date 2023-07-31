@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 <a href="https://velog.io/@gryoh" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 
+<br/>
 
 ### 💪 Skills
 
@@ -45,9 +46,12 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
 
-<br><br>
+<br/><br/>
+
+<!--
+![Anurag's GitHub stats](https://productive-box.vercel.app/api?username=gryoh&show_icons=true&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gryoh&show_icons=true&theme=radical)
-
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gryoh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
