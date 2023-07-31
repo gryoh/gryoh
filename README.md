@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+ 
+ ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=110&section=header&text=Backend%20Developer&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=60)
+ 
+</div>
 
 <!--
 **gryoh/gryoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +20,9 @@ Here are some ideas to get you started:
 -->
 
 
-Blog
-<a href="https://velog.io/@gryoh" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+### Blog
+
+<a href="https://velog.io/@gryoh" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 
 
 ### 💪 Skills
@@ -42,4 +47,7 @@ Platforms & Languages
 
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gryoh&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gryoh&show_icons=true&theme=radical) -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gryoh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
