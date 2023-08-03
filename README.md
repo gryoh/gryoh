@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-### 😮 Recent Interests
+### 😮 Studyings
 <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=JPA&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
 
