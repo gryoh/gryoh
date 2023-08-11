@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ### 📫 Contact
-<img src="https://img.shields.io/badge/hungry6459@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+<img src="https://img.shields.io/badge/hungry6459@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 
 <br/>
 
@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
 <img src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">
+<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 
 <br/>
 
